@@ -149,7 +149,7 @@ class _MainPageState extends State<MainPage> {
                               setState(() => this.description = description),
                         ),
                       ),
-                      SizedBox(height:10,),
+                      SizedBox(height:11,),
                       Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
@@ -200,7 +200,7 @@ class _MainPageState extends State<MainPage> {
                                                         ),
                                                       ),
                                                       const SizedBox(
-                                                        width: 10,
+                                                        width: 11,
                                                       ),
                                                       Container(
                                                         color: Color(0xff272727),
