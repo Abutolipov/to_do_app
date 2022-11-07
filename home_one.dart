@@ -126,7 +126,7 @@ class NoteCardWidget extends StatelessWidget {
                   note.title,
                   style: TextStyle(
                     color: Colors.white,
-                    fontSize: 20,
+                    fontSize: 21,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
