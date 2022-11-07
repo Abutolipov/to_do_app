@@ -118,7 +118,7 @@ class _Detail_pageState extends State<Detail_page> {
                               children: [
                                 Expanded(
                                     child: SizedBox(
-                                      height:48,
+                                      height:45,
                                       child: ElevatedButton(
                                           style:ElevatedButton.styleFrom(
                                               backgroundColor: Color(0xff363636)
@@ -129,7 +129,7 @@ class _Detail_pageState extends State<Detail_page> {
                                 ),
                                 Expanded(
                                     child: SizedBox(
-                                      height:48,
+                                      height:45,
                                       child: ElevatedButton(
                                         style:ElevatedButton.styleFrom(
                                             backgroundColor: Color(0xff8687E7),
@@ -287,7 +287,7 @@ class _Detail_pageState extends State<Detail_page> {
         borderRadius: BorderRadius.circular(5.0),
         borderSide:const  BorderSide(
           color: Colors.white,
-          width:0.6,
+          width:0.7,
         ),
       ),
       enabledBorder:InputBorder.none,
@@ -313,7 +313,7 @@ class _Detail_pageState extends State<Detail_page> {
         borderRadius: BorderRadius.circular(5.0),
         borderSide: BorderSide(
           color: Colors.white,
-          width: 0.6,
+          width: 0.7,
         ),
       ),
       enabledBorder:InputBorder.none,
