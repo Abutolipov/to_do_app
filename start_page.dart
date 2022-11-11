@@ -62,7 +62,7 @@ class _StartState extends State<Start> {
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.black,
-                  minimumSize:Size(327, 53),
+                  minimumSize:Size(328, 53),
                 ),
                 onPressed: (){
                   Navigator.push(context, MaterialPageRoute(builder: (_)=>RegisterPage()));
