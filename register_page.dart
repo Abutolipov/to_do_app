@@ -230,9 +230,9 @@ class _RegPageState extends State<RegisterPage> {
                         ),
                       ),
                     ),
-                    SizedBox(height:25),
+                    SizedBox(height:24),
                     SvgPicture.asset("assets/images/divider.svg"),
-                    SizedBox(height:30),
+                    SizedBox(height:31),
                     InkWell(
                       child:Container(
                         decoration: BoxDecoration(
